@@ -1218,6 +1218,3 @@ while run:
 
     pygame.display.flip()
 pygame.quit()
-
-
-# sound effects, restart and winning messages
